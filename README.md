@@ -10,3 +10,8 @@ Usage: The CMS project offers a wide range of features and functionalities to su
 4.	Ticket Management: Facilitate ticket reservation, and cancellation processes, and generate tickets with unique identifiers for each transaction.
 5.	Customer Management: Manage customer profiles, loyalty programs, and feedback, allowing cinemas to personalize services and maintain strong relationships with patrons.
 
+![image](https://github.com/user-attachments/assets/4887c257-ca59-43fa-97d5-f727e1d271a4)
+
+*Note: The class diagram was made as a reference to help with the project. The original code and      functionalities might differ such as datatypes and function prototypes. Overall, it provides a good outlook of what the code has to offer but the final code might have fewer, or extra methods varying per class.
+
+

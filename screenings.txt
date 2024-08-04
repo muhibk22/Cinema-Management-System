@@ -1,0 +1,36 @@
+1
+spider man
+action, adventure
+120
+22 feb 2023
+14
+12 pm
+2 pm
+12th may 2024
+1
+30000
+12
+2
+tomb raider
+action, adventure
+165
+12 dec 2019
+16
+2pm
+5pm
+12th may 2024
+3
+30010
+12
+3
+The Matrix
+Sci-fi
+180
+2 july 2018
+16
+6pm
+9pm
+12 may 2024
+2
+50011
+12
